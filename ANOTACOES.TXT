@@ -1,4 +1,4 @@
-OBS: Este é um arquivo de anotações, muito provavelmente escrevi algumas informações equivocadas, até porque é a primeira vez que uso ReactJS e typescript.
+OBS: Este é um arquivo de anotações, muito provavelmente escrevi algumas informações equivocadas, até porque é a minha primeira vez que uso ReactJS e typescript.
 
 
 *O que é o typescript?
