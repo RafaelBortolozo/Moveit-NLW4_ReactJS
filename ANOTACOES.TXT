@@ -1,0 +1,23 @@
+OBS: Este é um arquivo de anotações, muito provavelmente escrevi algumas informações equivocadas, até porque é a primeira vez que uso ReactJS e typescript.
+
+
+*O que é o typescript?
+	typescript pode ser considerado uma linguagem de programação, uma das suas funções é definir a tipagem das variaveis. Digamos que tenha uma função que recebe um objeto com os dados de uma pessoa e exibe essas informações, para isso, o dev deve conhecer as propriedades do objeto para conseguir exibir, o que pode ser um problema. O typescript entra aí, permitindo que se cria uma tipagem para esse objeto e visualize com facilidade os seus componentes, caso usar um componente que nao existe, automaticamente o VSCode informa um erro.
+
+*Criando a base do projeto com react
+	No terminal, use o comando "yarn create react-app <nome do projeto>", se quiser adicionar um template, coloque no final do comando "--template=<template>". No caso do NLW, foi usado o template "typescript". Para rodar no navegador, basta usar o comando "yarn start", se abrir uma tela com a logo do React girando, quer dizer que deu tudo certo e poderá iniciar o seu projeto.
+
+*Algumas informações sobre o React
+	O React trabalha com componentes, cada área da aplicação é dividido em componentes (ex: header, menu, tela de exibir produtos, sumario, etc...), tudo o que é possivel separar na aplicação é um componente.
+
+*componentes:
+	Os componentes é tudo aquilo em que é possivel separar na aplicação, essa separação ajuda a manter o codigo mais organizado, além de permitir o reaproveitamento de codigo.
+
+*propriedades
+	servem para dar atributos aos componentes, trabalha-se da mesma forma do HTML (ex: <a href=""> <a/>
+
+*estado
+	Uma informação dentro do componente que não é estática, mudará ao longo do tempo. O useState do React serve para definir o estado
+
+
+
